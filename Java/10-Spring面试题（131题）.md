@@ -4,7 +4,7 @@
 
 
 
-# String面试题
+# Spring面试题
 
 ### 1、不同版本的 Spring Framework 有哪些主要功能？  
 
@@ -1454,6 +1454,4 @@ WebApplicationContext 继承了 ApplicationContext 并增加了一些 WEB 应用
 该注解是用来映射一个 URL 到一个类或一个特定的方处理法上  
 
 
-
-![](https://gitee.com/duchaochen/pythonnote/raw/master/img/面试题题封面-new.png)
 

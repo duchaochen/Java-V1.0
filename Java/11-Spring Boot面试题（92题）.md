@@ -1,10 +1,4 @@
-
-
 ![](https://gitee.com/duchaochen/pythonnote/raw/master/img/面试题题封面-new.png)
-
-
-
-
 
 # Spring Boot面试题
 
@@ -780,7 +774,7 @@ public interface TodoRepository
 
 下面展示的是一些关于 TEST 服务器的例子
 
-#### POST
+**POST**
 
 - URL:http：//localhost：8080/todos
 - Use Header:Content-Type:Type:application/json
@@ -1304,8 +1298,4 @@ void configureDefaultServletHandling(DefaultServletHandlerConfigurer configurer)
 ### 92、@SpringBootApplication 注解中的属性相当于哪几个注解？
 
 等价于以默认属性使用 @Configuration，@EnableAutoConfiguration 和 @ComponentScan。
-
-
-
-![](https://gitee.com/duchaochen/pythonnote/raw/master/img/面试题题封面-new.png)
 

@@ -1,7 +1,3 @@
-
-
-
-
 ![](https://gitee.com/duchaochen/pythonnote/raw/master/img/面试题题封面-new.png)
 
 
